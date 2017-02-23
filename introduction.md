@@ -1,3 +1,1 @@
-hi welcome
-
-i m pushpalatha
+hello! i am here to teach people  about GitHub.
